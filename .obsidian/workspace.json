@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21fd31f93fe27449",
+        "id": "58c46d4392af3333",
         "type": "tabs",
         "children": [
           {
-            "id": "28f3efa163f0dcf5",
+            "id": "4e1d342f00c362fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "Object-Oriented Analysis and Design/Object-Oriented Analysis and Design (OOAD).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c1b3ed9f04544eec",
-            "type": "leaf",
-            "state": {
-              "type": "make-file-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
               }
             }
           }
@@ -83,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a0301b29f1a1ed5",
+  "active": "83394df6a60b4c1f",
   "lastOpenFiles": [
+    "Object-Oriented Analysis and Design/Object-Oriented Analysis and Design (OOAD).md",
     "Spaces/Home",
     "Spaces",
-    "Object-Oriented Analysis and Design/Object-Oriented Analysis and Design (OOAD).md",
     "Software Quality Assurance and Configuration Management",
     "Software Development LifeCycle Models",
     "Test-Driven Development",
@@ -177,7 +166,6 @@
     "UML",
     "Testing",
     "Typescript",
-    "Domain-Driven Design",
-    "Design Patterns"
+    "Domain-Driven Design"
   ]
 }

@@ -37,3 +37,4 @@ Using proven OO design principles results in more maintainable, flexible, and ex
 - Classes are about behavior and functionality
 
 #SOLID #design-principles #oop #ooad #oo-principles #desing-patterns-book
+

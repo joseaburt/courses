@@ -4,7 +4,13 @@
 
 Requirements
 Analysis and Design
-OO Princi
+OO Principles
+Solving Big Problem
+
+
+
+
+
 
 Looking at the nouns (and verbs) in your use case to figure out classes and methods is called textual analysis.
 

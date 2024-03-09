@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28f3efa163f0dcf5",
+  "active": "6a0301b29f1a1ed5",
   "lastOpenFiles": [
     "Spaces/Home",
     "Spaces",

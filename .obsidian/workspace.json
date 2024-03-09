@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object-Oriented Analysis and Design/Object-Oriented Analysis and Design (OOAD).md",
+                "file": "Object-Oriented Analysis and Design/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object-Oriented Analysis and Design/Object-Oriented Analysis and Design (OOAD).md",
+                "file": "Object-Oriented Analysis and Design/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object-Oriented Analysis and Design/Object-Oriented Analysis and Design (OOAD).md",
+                "file": "Object-Oriented Analysis and Design/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object-Oriented Analysis and Design/Object-Oriented Analysis and Design (OOAD).md"
+                "file": "Object-Oriented Analysis and Design/Untitled.md"
               }
             }
           }
@@ -154,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83394df6a60b4c1f",
+  "active": "4e1d342f00c362fa",
   "lastOpenFiles": [
     "Object-Oriented Analysis and Design/Object-Oriented Analysis and Design (OOAD).md",
+    "Object-Oriented Analysis and Design/Untitled.md",
     "Spaces/Home",
     "Spaces",
     "Software Quality Assurance and Configuration Management",
